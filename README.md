@@ -1,32 +1,41 @@
-# Cybersecurity Simulations
+# Cybersecurity Simulations – Forage
 
-This repository contains hands-on cybersecurity simulations completed across multiple domains and companies, demonstrating applied skills in security fundamentals, threat analysis, and cybersecurity operations.
+This repository contains hands-on cybersecurity simulations completed through **The Forage**, demonstrating applied skills in threat analysis, security operations, and risk mitigation across real-world scenarios from global companies.
+
+---
 
 ## Simulations Completed
 
-| Company      | Simulation Title                  | Level          | Focus Area          |
-|-------------|-----------------------------------|----------------|------------------|
-| Datacom      | Cybersecurity                     | Intermediate   | Security          |
-| Telstra AU   | Cybersecurity                     | Introductory   | Security          |
-| Tata         | Cybersecurity Analyst             | Intermediate   | Security          |
-| Mastercard   | Cybersecurity                     | Introductory   | Security          |
-| AIG          | Shields Up: Cybersecurity         | Intermediate   | Security          |
+| Company     | Role                        | Simulation Title                    | Focus Areas                                    |
+|------------|-----------------------------|------------------------------------|------------------------------------------------|
+| Tata       | Cybersecurity Analyst       | SBDA                               | Identity & Access Management, IAM solutions, security strategy |
+| Telstra AU | Security Analyst            | Cybersecurity (CYYO)               | Phishing simulations, threat identification, security awareness |
+| Datacom    | Cybersecurity Consultant    | Cybersecurity (ZM6D)               | Risk assessment, incident analysis, security recommendations |
+| Mastercard | Security Awareness Team     | Cybersecurity (T8YE)               | Phishing simulations, threat analysis, employee training |
+| AIG        | Information Security Analyst| Shields Up: Cybersecurity (KU1I)   | Threat alerts analysis, ransomware response, risk mitigation |
+
+---
 
 ## Key Skills Developed
 
-- Network security and threat mitigation  
-- Risk assessment and vulnerability analysis  
-- Cybersecurity operations and incident handling  
-- Understanding of real-world security scenarios  
+- **Threat Analysis & Risk Assessment:** Evaluated cyberattacks, identified vulnerabilities, and provided mitigation strategies.  
+- **Security Awareness & Training:** Designed phishing simulations and employee training exercises.  
+- **Incident Response & Mitigation:** Responded to alerts and ransomware incidents in realistic scenarios.  
+- **Identity & Access Management (IAM):** Developed and implemented IAM solutions to strengthen organizational security.  
+- **Applied Cybersecurity Practices:** Hands-on experience with real-world tools and processes used by global security teams.
+
+---
 
 ## Purpose
 
-These simulations showcase practical application of cybersecurity knowledge, preparing for roles in security analysis, threat management, and operational security.
+These simulations demonstrate practical cybersecurity skills in areas including network security, threat mitigation, IAM, incident response, and security awareness. This repository reflects applied learning and readiness for security-focused roles.
 
-## How to Use This Repository
+---
 
-- Explore individual simulation folders for detailed exercises and solutions.  
-- Use this repository as a reference for practical cybersecurity techniques and learning.  
+## Usage
+
+- Explore individual simulation folders for detailed exercises and solutions (if applicable).  
+- Use this repository as a reference for cybersecurity workflows, problem-solving, and applied security operations.
 
 ---
 
